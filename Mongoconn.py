@@ -8,10 +8,10 @@ db = connection.tutorial
 
 import tweepy
 
-consumer_key = 'YLTsg6saxKSLfs7BO3fUSvMsS'
-consumer_secret = 'zEpcBoSK7nyLFCxsKCs3YXs7uwT4tkcQVc8M5TGw5FABpaYC3w'
-access_token = '29405602-nIDqtYPLpQF6hNZ5Iq6ZcZ3U5iSIFnMuaKTC0arQi'
-access_secret = 'XAJQ4SJR33wf3pSmGi1Eopzzj34mHVGDsDebHrq52AV41'
+consumer_key = 'NHUyCpBlgv1rG3RE4rM8SaQAU'
+consumer_secret = 'EntHlXvgw1Z79WBMfrEXcpMw3IM6gxTvZ440IGIsZVJlnaJSil'
+access_token = '390032709-6XbDnfeZkRsHeVCklMbJdCK2S6s4oKie8KFViDJ3'
+access_secret = 'nJmVsyZEYx8kB3AM35fzZtUce5j9UvH1H3le8uBNajjHt'
 
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
